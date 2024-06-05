@@ -1,0 +1,6 @@
+defineGitRev: _FIR_GIT_REV
+model: STM32G431KB
+linker: STM32G431KB
+options:
+- -O2
+- -Werror
